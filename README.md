@@ -1,5 +1,6 @@
 
 Here, you can find the code to run the models and the simulations presented in the article entitled “Random-effects meta-analysis of Phase I dose-finding studies using stochastic process priors”. 
+Link: https://clicktime.symantec.com/3MnsciFmpCx2GTRRtjmLJoD6H2?u=https%3A%2F%2Farxiv.org%2Fabs%2F1908.06733
 
 The scripts can be run in all operating system. R must be installed with the following libraries: 
     rstan (we used rstan_2.17.3), UBCRM, MASS, dfcrm, Iso, ggplot2, ggrepel, gridExtra, parallel, dfmeta, xtable.  
